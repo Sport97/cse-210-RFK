@@ -33,4 +33,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Add your name and email here
+* Stephen Port (port21022@byui.edu)
